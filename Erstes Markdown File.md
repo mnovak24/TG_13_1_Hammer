@@ -1,4 +1,0 @@
-# Einfuehrung
-
-## Anlegen eines Github
-
